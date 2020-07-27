@@ -17,7 +17,7 @@
 * PUT http://localhost:8080/api/participants/{participant_id}
 * DELETE http://localhost:8080/api/participants/{participant_id}
 
-# Поля участника доступные при создании/редактировании
+# Редактируемые поля участника
 * event_id
 * first_name
 * last_name
